@@ -1,1 +1,3 @@
-# PROPERTY
+#Property Management and Analysis Dashboard
+
+This project focuses on developing a comprehensive property management dashboard to analyze real estate data effectively. The dashboard provides insights into key metrics such as the distribution of properties by the number of bedrooms, condition status, renovation history, and year built. It includes visualizations such as bar charts, condition-wise property statistics, and year-wise trends to enable data-driven decisions. The goal is to assist stakeholders in understanding the property's market status, identifying trends, and improving property management strategies.
